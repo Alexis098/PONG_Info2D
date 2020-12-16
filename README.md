@@ -1,10 +1,10 @@
 # Encore un pong
 
-https://davidmarsprof.github.io/pong-wimbledon/
 
-Pour jouer...
 
-### Rafael
+Contrôles :
+
+### Goku
 touches A / Q 
-### Roger
+### Vegeta
 touches P / M 
