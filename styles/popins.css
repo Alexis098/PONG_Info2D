@@ -1,0 +1,39 @@
+/** import de polices **/
+@import url(https://fonts.googleapis.com/css?family=Ranchers);
+
+/* poppins-regular - latin */
+@font-face {
+    font-family: 'Ranchers';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+    url('./fonts/Ranchers-Regular.ttf') format('ttf'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+    
+}
+/* poppins-700 - latin */
+@font-face {
+    font-family: 'Ranchers';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''),
+    url('./fonts/Ranchers-Regular.ttf') format('ttf'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+   
+}
+/* poppins-800 - latin */
+@font-face {
+    font-family: 'Ranchers';
+    font-style: normal;
+    font-weight: 800;
+    src: local(''),
+    url('./fonts/Ranchers-Regular.ttf') format('ttf'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+   
+}
+/* poppins-900 - latin */
+@font-face {
+    font-family: 'Ranchers';
+    font-style: normal;
+    font-weight: 900;
+    src: local(''),
+    url('./fonts/Ranchers-Regular.ttf') format('ttf'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+  
+}
