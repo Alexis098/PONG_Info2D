@@ -11,15 +11,20 @@
 }
 
 #perso1{
+    width : 100px;
+    height : 100px;
     background-image: url("./skins/wimbledon/public/1.png");
     animation-duration: 1s;
-
 }
 #perso2{
+    width : 80px;
+    height : 80px;
     background-image: url("./skins/wimbledon/public/2.png");
     margin-top: 9vmin;
 }
 #perso3{
+    width : 85px;
+    height : 85px;
     background-image: url("./skins/wimbledon/public/3.png");
     animation-duration: 4s;
     margin-top: 1vmin;
@@ -29,26 +34,38 @@
     margin-top: 7vmin;
 }
 #perso5{
+    width : 80px;
+    height : 80px;
     background-image: url("./skins/wimbledon/public/5.png");
     animation-duration: 4s;
 }
 #perso6{
+    width : 80px;
+    height : 80px;
     background-image: url("./skins/wimbledon/public/6.png");
     margin-top: 7vmin;
 }
 #perso7{
+    width : 75px;
+    height : 75px;
     background-image: url("./skins/wimbledon/public/7.png");
 }
 #perso8{
+    width : 85px;
+    height : 85px;
     background-image: url("./skins/wimbledon/public/8.png");
     animation-duration: 1s;
     margin-top: 2vmin;
 }
 #perso9{
+    width : 80px;
+    height : 80px;
     background-image: url("./skins/wimbledon/public/9.png");
     margin-top:8vmin;
 }
 #perso10{
+    width : 80px;
+    height : 80px;
     background-image: url("./skins/wimbledon/public/10.png");
     animation-duration: 3s;
 }

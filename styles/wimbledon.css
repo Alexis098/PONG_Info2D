@@ -94,8 +94,9 @@ body{
 }
 
 .logo{
-    width: 15vmin;
-    height: 15vmin;
+    margin-top : 70px;
+    width: 25vmin;
+    height: 25vmin;
     background-image: url("./skins/wimbledon/logo.png");
     background-size: contain;
     background-repeat: no-repeat;
