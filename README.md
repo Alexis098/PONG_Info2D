@@ -1,6 +1,6 @@
 # Encore un pong
 
-https://davidmarsprof.github.io/pong-wimbledon/
+https://alexis098.github.io/PONG_Info2D/
 
 Pour jouer...
 
